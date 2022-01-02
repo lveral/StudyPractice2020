@@ -1,0 +1,9 @@
+INSERT("word",345)
+INSERT("wordd",35)
+INSERT("worddd",45)
+FIND("w")
+FIND("worddd")
+REMOVE("word")
+FIND("word")
+FIND("wordd")
+END
